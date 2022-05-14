@@ -11,7 +11,7 @@ Para esta primera parte se implementa un DTO específico (UserdocDTO) para lo qu
 - userdocs.html
 - funciones.js (función showUserDocs)
 
-## PARTE 2
+## PARTE 2 [DONE, con HTML]
 ### Implementar los métodos necesarios para añadir un nuevo usuario a la tabla USERS.
 Se implementa un @PostMapping en el UserController.
 
