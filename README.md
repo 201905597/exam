@@ -19,12 +19,15 @@ Se implementa un @PostMapping en el UserController.
 ### Implementar los métodos necesarios para eliminar un documento de la base de datos.
 Se implementa un @DeleteMapping en el DocumentController.
 
-## PARTE 4
+## PARTE 4 [DONE, sin HTML]
 ### Implementar los métodos necesarios para actualizar el nombre de usuario de un usuario en particular.
 Se implementa un @UpdateMapping en el UserController.
 
-## PARTE 5
-### Implementar pruebas unitarias de: ...
+## PARTE 5 [DONE]
+### Implementar prueba E2E
+Se implementa
+- Test E2E del @GetMapping de usuarios (all users)
+- Test E2E del @GetMapping de user + doc join
 
 ## Dependencias de Spring utilizadas
 - Lombok
